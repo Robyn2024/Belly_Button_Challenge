@@ -45,10 +45,6 @@ Complete the following steps:
 
 ![image](https://github.com/Robyn2024/Belly_Button_Challenge/assets/138690945/3422a9ef-86b5-4daf-b277-4497e47ec723)
 
-## References
-
-Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
-
 
 ### 7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
@@ -65,8 +61,11 @@ The following task is advanced and therefore optional.
 ![image](https://github.com/Robyn2024/Belly_Button_Challenge/assets/138690945/be0e41d6-32d3-4b05-9d55-6ccadbeaef44)
 
 
-
 #### Hints
 - Use console.log inside of your JavaScript code to see what your data looks like at each step.
 
 - Refer to the Plotly.js documentationLinks to an external site. when building the plots.
+
+## References
+
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
