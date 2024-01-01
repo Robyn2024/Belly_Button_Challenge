@@ -142,6 +142,9 @@ function InitDashboard() {
         // Draw the bubblechart for the selected sample id
         DrawBubblechart(initialId);
 
+        // Draw the gaugechart for the selected sample id
+        DrawGaugechart(initialId);
+
         // Show the metadata for the selected sample id
         ShowMetadata(initialId);
 
